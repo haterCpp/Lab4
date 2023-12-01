@@ -1,0 +1,7 @@
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\bin\Debug\LabTDD.pdb
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\obj\Debug\LabTDD.csproj.AssemblyReference.cache
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\obj\Debug\LabTDD.csproj.CoreCompileInputs.cache
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\obj\Debug\LabTDD.pdb
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\bin\Debug\LabTDD.dll.config
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\bin\Debug\LabTDD.dll
+D:\Учеба\1 курс\само обучение\C#\LabTDD\LabTDD\LabTDD\obj\Debug\LabTDD.dll
